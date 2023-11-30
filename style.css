@@ -1,0 +1,23 @@
+body {
+    background-image: url(./img/fon1.jpg);
+}  
+
+.button {
+    margin-top: 15px;
+    background: #73A353;
+    border-radius: 6px;
+    margin-left: 15px;
+    cursor: pointer;
+    color: #fff;
+    height: 35px;
+    
+}
+
+input {
+    display: block;
+    margin-top: 10px;
+    margin-left: 15px;
+    background: #73A353;
+    color: #fff;
+
+}
